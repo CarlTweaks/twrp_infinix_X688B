@@ -8,3 +8,6 @@ ro.treble.enabled=true
 ro.mediatek.platform=MT6765
 ro.hardware=mt6765
 ro.boot.dynamic_partitions=true
+# TWRP Specific Props
+ro.twrp.boot=1
+ro.twrp.display.brightness=900
